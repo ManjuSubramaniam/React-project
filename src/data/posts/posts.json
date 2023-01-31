@@ -1,0 +1,58 @@
+[
+    {
+      "title": "Mughal Gardens renamed 'Amrit Udyan';set to open on January 31",
+      "image_src":"assets/images/Mughal-Garden.jpg",
+      "upvotes": 1000,
+      "comments": 124,
+      "subreddit": {
+        "image_src": "assets/images/subreddit.jpg",
+        "name": "AskReddit"
+      },
+      "username": "Kiki9"
+    },
+    {
+      "title": "State of Vande Bharat Express after public usage",
+      "image_src": "assets/images/express.jpg",
+      "upvotes": 836,
+      "comments": 191,
+      "subreddit": {
+        "image_src": "assets/images/subreddit.jpg",
+        "name": "IndiaSpeaks"
+      },
+      "username": "Bharathi"
+    },
+    {
+      "title": "Snacks",
+      "description": "What was your best and biggest snack?",
+      "upvotes": 3,
+      "comments": 1,
+      "subreddit": {
+        "image_src": "assets/images/subreddit.jpg",
+        "name": "Snacks"
+      },
+      "username": "Triangul8"
+    },
+    {
+      "title": "Tom and Jerry",
+      "video_src": "assets/videos/Tom and Jerry.mp4",
+      "duration": 7,
+      "upvotes": 100,
+      "comments": 12,
+      "subreddit": {
+        "image_src": "assets/images/subreddit.jpg",
+        "name": "Memes"
+      },
+      "username": "90's KID"
+    },
+    {
+      "title": "Google HR loses job while interviewing candidate for a job role..",
+      "image_src": "assets/images/google.jpg",
+      "upvotes": 874,
+      "comments": 118,
+      "subreddit": {
+        "image_src": "assets/images/subreddit.jpg",
+        "name": "developersIndia"
+      },
+      "username": "Josh017"
+    }
+  ]

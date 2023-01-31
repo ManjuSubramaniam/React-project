@@ -1,0 +1,41 @@
+[
+    {
+      "image_src": "assets/images/georgia.jpg",
+      "title": "Georgia State of Emergency",
+      "description": "Georgia governor declares state of emergency,activates 1,000 National Guard troops amid Atlanta protests",
+      "subreddit": {
+        "image_src": "assets/images/subreddit.jpg",
+        "name": "politics and more"
+      }
+    },
+  
+    {
+      "image_src": "assets/images/arizona.jpg",
+      "title": "Arizona Public Records Laws",
+      "description": "Arizona Republicans exempt lawmakers from the state's open-record law",
+      "subreddit": {
+        "image_src": "assets/images/subreddit.jpg",
+        "name": "australia and more"
+      }
+    },
+  
+    {
+      "image_src": "assets/images/holocaust.jpg",
+      "title": "Holocaust Remembrance Day",
+      "description": "Armed Forces of Ukraine commemorate the victims of the Holocaust.We Share the pain of the Jewish people and all victims of Nazi terror during World War 2",
+      "subreddit": {
+        "image_src": "assets/images/subreddit.jpg",
+        "name": "ukraine and more"
+      }
+    },
+  
+    {
+      "image_src": "assets/images/lostcapsule.jpg",
+      "title": "Lost Radioactive Capsule",
+      "description": "Urgent public health warning issued over lost radioactive capsule in Western Australia",
+      "subreddit": {
+        "image_src": "assets/images/subreddit.jpg",
+        "name": "australia and more"
+      }
+    }
+  ]
